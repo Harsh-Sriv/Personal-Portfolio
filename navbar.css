@@ -43,6 +43,7 @@
 .header .nav ul li a.active,
 .header .nav ul li a:hover {
     background-color: var(--secondary-color);
+    border-radius: 5px;;
     cursor: pointer;
 }
 
